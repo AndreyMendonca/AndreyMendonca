@@ -12,4 +12,3 @@
 </div>
 <hr>
 
-![Snake animation](https://github.com/AndreyMendonca/AndreyMendonca/blod/output/github-contribution-grid-snake.svg)
