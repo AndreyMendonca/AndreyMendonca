@@ -11,3 +11,5 @@
   <img align="center" alt="c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <hr>
+
+![Snake animation](https://github.com/AndreyMendonca/AndreyMendonca/blod/output/github-contribution-grid-snake.svg)
